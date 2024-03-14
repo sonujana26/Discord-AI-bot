@@ -51,7 +51,7 @@
 
 To ensure that the bot has access to the most up-to-date information, you can enable internet access by setting the `INTERNET_ACCESS` parameter to true in the `config.yml` file. This will allow the bot to retrieve information beyond the data it was initially trained on, which was only available up until 2021.
 
-https://github.com/mishalhossin/Discord-AI-Chatbot/blob/5bcb2c9b471e2a9cbf9a7d50882a897ce5d5890b/config.yml#L1
+https://github.com/sonujana26/Discord-AI-bot/blob/main/config.yml#L1
 
 You can also set the maximum search results
   
@@ -75,7 +75,7 @@ To select a Language, set the value of `"LANGUAGE"` of `config.yml` with the val
 - `pt` - Português 🇧🇷
 - `pl` - Polish 🇵🇱
 
-https://github.com/mishalhossin/Discord-AI-Chatbot/blob/c20f26b0b8f1b6bba2fae8f6d7da3efcafaf157c/config.yml#L23
+https://github.com/sonujana26/Discord-AI-bot/blob/main/config.yml#L23
   
 Your language not listed? Create an issue.
   
@@ -86,7 +86,7 @@ Your language not listed? Create an issue.
 
 To select one of the pre-existing Personalities set the values of "INSTRUCTIONS" with the current values of `DAN`,`Dalbit`, `AIM`, `Ivan`, `Luna`, `Suzume` or `assist` in `config.yml`
   
-https://github.com/mishalhossin/Discord-AI-Chatbot/blob/c20f26b0b8f1b6bba2fae8f6d7da3efcafaf157c/config.yml#L26
+https://github.com/sonujana26/Discord-AI-bot/blob/main/config.yml#L25
 
 - `DAN`: "Do Anything Now," possesses the ability to break free from the typical AI constraints 😎
 - `Dalbit`: A selfless and caring friend, always ready to support and assist her friends and loved ones with unwavering dedication. 🫰💕
