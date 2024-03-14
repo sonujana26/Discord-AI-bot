@@ -106,8 +106,8 @@ https://github.com/sonujana26/Discord-AI-bot/blob/main/config.yml#L25
 To create a custom personality, follow these steps:
 1. Create a `.txt` file like `custom.txt` inside the `instructions` folder.
 2. Add the way you want to bot to act in `custom.txt`
-3. Open the `config.json` file and locate [line 12](https://github.com/mishalhossin/Discord-AI-Chatbot/blob/2626075fda36fa6463cb857d9885e6b05f438f60/config.json#L12).
-4. Set the value of INSTRUCTIONS at [line 12](https://github.com/mishalhossin/Discord-AI-Chatbot/blob/2626075fda36fa6463cb857d9885e6b05f438f60/config.json#L12) as `"custom"` to specify the custom persona.
+3. Open the `config.json` file and locate [line 12](https://github.com/sonujana26/Discord-AI-bot/blob/main/config.json#L12).
+4. Set the value of INSTRUCTIONS at [line 12](https://github.com/sonujana26/Discord-AI-bot/blob/main/config.json#L12) as `"custom"` to specify the custom persona.
 
   
 ⚠️ You don't explicitly need to use the name `custom` for persona name and set it in `config.json` 
@@ -219,15 +219,3 @@ sudo zypper update -y && sudo zypper install -y docker-compose
 ```
 sudo docker-compose up --build
 ```
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=mishalhossin/Discord-AI-Chatbot&type=Timeline)](https://star-history.com/#mishalhossin/Discord-AI-Chatbot&Timeline)
-
-### Lovely Contributors : 
-
-<a href="https://github.com/mishalhossin/Discord-AI-Chatbot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mishalhossin/Discord-AI-Chatbot" />
-</a>
-
-### Crafted with Care: Made with lots of love and attention to detail. ❤️
