@@ -170,7 +170,7 @@ You can Invite your bot using the link in console
 - Invite your bot and DM (Direct Message) it | ⚠️ Make sure you have DM enabled
 - if you want it in the server channel use **/toggleactive** 
 - For more awesome commands use **/help**
-![image](https://github.com/mishalhossin/Discord-AI-Chatbot/assets/91066601/6f26c552-751d-4753-bd17-883baf7ee6d5)
+![image](https://media.discordapp.net/attachments/1204073000765489192/1217666090507702322/Screenshot_2024_0314_082000.png?ex=6604daeb&is=65f265eb&hm=8ab7f6f585988d4ddeae3d4da82a276c2c0a1cc49af70e93f10ddd7502807649&)
 
 # ✨  Other ways to run ✨
 ### Using replit to run ☁️
