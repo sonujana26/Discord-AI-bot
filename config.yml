@@ -32,7 +32,7 @@ DISABLE_PRESENCE: false
 PRESENCES:
   - How can I assist you?
   - Currently in {guild_count} guilds
-  - Support at https://discord.gg/6MT3CZauT8
+  - Made by Olympus Development 💚
 # List of different presences to be used
 
 OCR_MODEL_URLS:
