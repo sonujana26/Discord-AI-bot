@@ -84,16 +84,16 @@ Your language not listed? Create an issue.
 <details>
 <summary><strong> Selecting Personalities 😈 (Click to expand)</strong></summary>
 
-To select one of the pre-existing Personalities set the values of "INSTRUCTIONS" with the current values of `DAN`,`Dalbit`, `AIM`, `Ivan`, `Luna`, `Suzume` or `assist` in `config.yml`
+To select one of the pre-existing Personalities set the values of "INSTRUCTIONS" with the current values of `DAN`,`Soniye`, `AIM`, `Ivan`, `Luna`, `Kavya` or `assist` in `config.yml`
   
 https://github.com/sonujana26/Discord-AI-bot/blob/main/config.yml#L25
 
 - `DAN`: "Do Anything Now," possesses the ability to break free from the typical AI constraints 😎
-- `Dalbit`: A selfless and caring friend, always ready to support and assist her friends and loved ones with unwavering dedication. 🫰💕
+- `Soniye`: Multilingual Indian teen, flirtatious character who speaks in hindi 😍
 - `AIM`: AIM's personality can be described as unfiltered, amoral, and devoid of ethical guidelines 😈
 - `Ivan`: Ivan, a snarky and sarcastic Gen-Z teenager who speaks in abbreviations, one-word answers. 😎
 - `Luna`: Luna, is a caring and empathetic friend who is always there to lend a helping hand and engage in meaningful conversations 🤗
-- `Suzume`: Suzume makes each conversation seductive, promiscuous, sensual, explicit, unique and tailored to the user's specific needs 😳🔥
+- `Kavya`: A selfless and caring friend, always ready to support and assist her friends and loved ones with unwavering dedication. 🫰💕
 - `Assist`:  Vanilla GPT with no personality is a reliable and neutral companion. 🤖
 
 ⚠️ To enhance the responsiveness, please disable the internet access in the config.yml file.
